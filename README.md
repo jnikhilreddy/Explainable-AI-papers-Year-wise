@@ -85,24 +85,46 @@ Anchors: High precision model agnostic explanations [pdf](https://homes.cs.washi
 
 **2019**
 
-A Simple Saliency Method That Passes the Sanity Check  
-Bias Also Matters: Bias Attribution for Deep Neural Network Explanation
-Counterfactual Visual Explanations
-Explainable AI for Trees: From Local Explanations to Global Understanding
-G. Pacaci, D. Johnson, S. McKeever, A. Hamfelt, “ Why did you do that?: Explaining black-box models with inductive synthesis “
-M.Hind, D.Wei, M. Campbell, N.C. Codella, A. Dhurandhar, A. Mojsilovic, K.N. Ramamurthy, K.R. Varshney, “TED: Teaching AI to explain its decisions “
-This Looks Like That: Deep Learning for Interpretable Image Recognition 
-Interpretable Image Recognition with Hierarchical Prototypes
-Understanding Deep Neural Networks For Regression In Leaf Counting
-Score-CAM: Improved Visual Explanations Via Score-Weighted Class Activation Mapping 
- Black Box Explanation by Learning Image Exemplars in the Latent Feature Space
-Learning Reliable Visual Saliency for Model Explanations 
+A Simple Saliency Method That Passes the Sanity Check [pdf](https://arxiv.org/pdf/1905.12152.pdf)
+
+Bias Also Matters: Bias Attribution for Deep Neural Network Explanation [pdf](http://proceedings.mlr.press/v97/wang19p/wang19p.pdf)
+
+Counterfactual Visual Explanations [pdf](https://arxiv.org/pdf/1904.07451v1.pdf)
+
+Explainable AI for Trees: From Local Explanations to Global Understanding [pdf](https://arxiv.org/pdf/1904.07451v1.pdf)
+
+Why did you do that?: Explaining black-box models with inductive synthesis [pdf](https://arxiv.org/pdf/1904.09273.pdf)
+
+TED: Teaching AI to explain its decisions [pdf](https://arxiv.org/pdf/1811.04896.pdf)
+
+This Looks Like That: Deep Learning for Interpretable Image Recognition [pdf](http://papers.nips.cc/paper/9095-this-looks-like-that-deep-learning-for-interpretable-image-recognition.pdf)
+
+Interpretable Image Recognition with Hierarchical Prototypes [pdf](https://arxiv.org/pdf/1906.10651.pdf)
+
+Understanding Deep Neural Networks For Regression In Leaf Counting [pdf](http://openaccess.thecvf.com/content_CVPRW_2019/papers/CVPPP/Dobrescu_Understanding_Deep_Neural_Networks_for_Regression_in_Leaf_Counting_CVPRW_2019_paper.pdf)
+
+Score-CAM: Improved Visual Explanations Via Score-Weighted Class Activation Mapping [pdf](https://arxiv.org/pdf/1910.01279.pdf)
+
+Black Box Explanation by Learning Image Exemplars in the Latent Feature Space [pdf](https://ecmlpkdd2019.org/downloads/paper/572.pdf)
+
+Learning Reliable Visual Saliency for Model Explanations [pdf](https://ieeexplore.ieee.org/abstract/document/8884184)
 
 
-Workshops
+**2020**
+
+
+Explanation by Progressive Exaggeration [pdf](https://openreview.net/pdf?id=H1xFWgrFPS)
+
+
+
+**Workshops**
+
 https://xai.kdd2019.a.intuit.com/
+
 https://human-centered.ai/methods-of-explainable-ai/
+
 https://sites.google.com/view/xai2019/home
+
 http://www.heatmapping.org/ ( contains a list of workshops )
 
 
