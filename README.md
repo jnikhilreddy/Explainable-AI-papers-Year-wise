@@ -5,12 +5,12 @@ List of papers in the area of Explainable Artificial Intelligence Year wise
 **2014** 
 
 
-
 Deep Inside Convolutional Networks: Visualising Image Classification Models and Saliency Maps [pdf](https://arxiv.org/pdf/1312.6034.pdf)
 
 Visualizing and understanding convolutional networks [pdf](https://arxiv.org/pdf/1311.2901.pdf)
 
 Object detectors emerge in deep scene CNN’s [pdf](https://arxiv.org/pdf/1412.6856.pdf)
+
 
 **2015**
 
@@ -21,6 +21,7 @@ On Pixel-Wise Explanations for Non-Linear Classifier Decisions by Layer-Wise Rel
 Understanding Deep Image Representation by Inverting Them [pdf](https://arxiv.org/pdf/1412.0035.pdf)
 
 Striving for Simplicity: The All Convolutional Net [pdf](https://arxiv.org/pdf/1412.6806.pdf)
+
 
 **2016**
 
@@ -44,37 +45,45 @@ Understanding Black-box Predictions via Influence Functions [pdf](http://proceed
 
 Interpretable Explanations of Black Boxes by Meaningful Perturbation [pdf](http://www.robots.ox.ac.uk/~vedaldi//assets/pubs/fong17interpretable.pdf)
 
-Visualizing deep neural network decisions: Prediction difference analysis
+Visualizing deep neural network decisions: Prediction difference analysis [pdf](https://arxiv.org/pdf/1702.04595.pdf)
 
-Network Dissection: Quantifying Interpretability of Deep Visual Representations
+Network Dissection: Quantifying Interpretability of Deep Visual Representations [pdf](https://arxiv.org/pdf/1704.05796.pdf)
 
-The (Un)reliability of Saliency Methods
+The (Un)reliability of Saliency Methods [pdf](https://arxiv.org/pdf/1711.00867.pdf)
 
-Right for the Right Reasons: Training Differentiable Models by Constraining their Explanations
+Right for the Right Reasons: Training Differentiable Models by Constraining their Explanations [pdf](https://arxiv.org/pdf/1703.03717.pdf)
 
-Understanding intermediate layers using linear classifier probes
+Understanding intermediate layers using linear classifier probes [pdf](https://arxiv.org/pdf/1610.01644.pdf)
 
-Using KL-divergence to focus Deep Visual Explanation
+Using KL-divergence to focus Deep Visual Explanation [pdf](https://arxiv.org/pdf/1711.06431.pdf)
 
-A Unified Approach to Interpreting Model Predictions
+A Unified Approach to Interpreting Model Predictions [pdf](https://papers.nips.cc/paper/7062-a-unified-approach-to-interpreting-model-predictions.pdf)
 
-Grad-CAM: Visual Explanations from Deep Networks via Gradient-based Localization
-
-2018
-
-Deep Learning for Case-Based Reasoning through Prototypes: A Neural Network that Explains Its Predictions
-Towards Robust Interpretability with Self-Explaining Neural Networks
-Towards Better Understanding of Gradient-Based Attribution Methods For Deep Neural 
-Networks
-Interpretable Convolutional Neural Networks
-Grad-cam++: Improved Visual Explanations for Deep Convolutional Networks
-Net2Vec: Quantifying and Explaining how Concepts are Encoded by Filters in deep Neural Networks
-Sanity Checks for Saliency Maps
-R. Geirhos, P. Rubisch, C. Michaelis, M. Bethge, F.A. Wichmann, W. Brendel, “ Imagenet trained CNN’s are biased towards texture, increasing shape bias improves accuracy and robustness “
-M.T. Riberio, S. Singh, C. Guestrin, “Anchors: High precision model agnostic explanations “
+Grad-CAM: Visual Explanations from Deep Networks via Gradient-based Localization [pdf](http://openaccess.thecvf.com/content_ICCV_2017/papers/Selvaraju_Grad-CAM_Visual_Explanations_ICCV_2017_paper.pdf)
 
 
-2019
+**2018**
+
+Deep Learning for Case-Based Reasoning through Prototypes: A Neural Network that Explains Its Predictions [pdf](https://arxiv.org/pdf/1710.04806.pdf)
+
+Towards Robust Interpretability with Self-Explaining Neural Networks [pdf](https://papers.nips.cc/paper/8003-towards-robust-interpretability-with-self-explaining-neural-networks.pdf)
+
+Towards Better Understanding of Gradient-Based Attribution Methods For Deep Neural Networks [pdf](https://arxiv.org/pdf/1711.06104.pdf)
+
+Interpretable Convolutional Neural Networks [pdf](http://openaccess.thecvf.com/content_cvpr_2018/papers/Zhang_Interpretable_Convolutional_Neural_CVPR_2018_paper.pdf)
+
+Grad-cam++: Improved Visual Explanations for Deep Convolutional Networks [pdf](https://arxiv.org/pdf/1711.06104.pdf)
+
+Net2Vec: Quantifying and Explaining how Concepts are Encoded by Filters in deep Neural Networks [pdf](https://arxiv.org/pdf/1710.11063.pdf)
+
+Sanity Checks for Saliency Maps [pdf](https://papers.nips.cc/paper/8160-sanity-checks-for-saliency-maps.pdf)
+
+Imagenet trained CNN’s are biased towards texture, increasing shape bias improves accuracy and robustness [pdf](https://arxiv.org/pdf/1811.12231.pdf)
+
+Anchors: High precision model agnostic explanations [pdf](https://homes.cs.washington.edu/~marcotcr/aaai18.pdf)
+
+
+**2019**
 
 A Simple Saliency Method That Passes the Sanity Check  
 Bias Also Matters: Bias Attribution for Deep Neural Network Explanation
