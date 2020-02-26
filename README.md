@@ -2,28 +2,35 @@
 List of papers in the area of Explainable Artificial Intelligence Year wise
 
 
-2014 
+**2014** 
 
 
-Deep Inside Convolutional Networks: Visualising Image Classification Models and Saliency Maps [link](https://arxiv.org/pdf/1312.6034.pdf), code
+Deep Inside Convolutional Networks: Visualising Image Classification Models and Saliency Maps [pdf](https://arxiv.org/pdf/1312.6034.pdf)
 
-Visualizing and understanding convolutional networks [link](https://arxiv.org/pdf/1311.2901.pdf)
+Visualizing and understanding convolutional networks [pdf](https://arxiv.org/pdf/1311.2901.pdf)
 
-[Object detectors emerge in deep scene CNN’s](https://arxiv.org/abs/1412.6856)
+Object detectors emerge in deep scene CNN’s [pdf](https://arxiv.org/pdf/1412.6856.pdf)
 
-2015
+**2015**
+Understanding Neural Network through Deep Visualization [pdf](http://yosinski.com/media/papers/Yosinski__2015__ICML_DL__Understanding_Neural_Networks_Through_Deep_Visualization__.pdf)
 
-Understanding Neural Network through Deep Visualization
-On Pixel-Wise Explanations for Non-Linear Classifier Decisions by Layer-Wise Relevance Propagation
-Understanding Deep Image Representation by Inverting Them
-Striving for Simplicity: The All Convolutional Net
+On Pixel-Wise Explanations for Non-Linear Classifier Decisions by Layer-Wise Relevance Propagation [pdf](https://pdfs.semanticscholar.org/17a2/73bbd4448083b01b5a9389b3c37f5425aac0.pdf?_ga=2.53370664.129866596.1560509495-1781895300.1541438724)
 
-2016
-An unexpected unity among methods for interpreting model predictions
-“Why Should I Trust you?” Explaining the Predictions of Any Classifier
-B. Zhou, A. Khosla, A. Lapedriza, A. Olivia, A. Torralba, “Learning deep features for discriminative localization “
 
-2017
+Understanding Deep Image Representation by Inverting Them [pdf](https://arxiv.org/pdf/1412.0035.pdf)
+
+Striving for Simplicity: The All Convolutional Net [pdf](https://arxiv.org/pdf/1412.6806.pdf)
+
+**2016**
+
+An unexpected unity among methods for interpreting model predictions [pdf](https://arxiv.org/pdf/1611.07478.pdf)
+
+“Why Should I Trust you?” Explaining the Predictions of Any Classifier [pdf](https://www.kdd.org/kdd2016/papers/files/rfp0573-ribeiroA.pdf)
+
+Learning deep features for discriminative localization [pdf](http://cnnlocalization.csail.mit.edu/Zhou_Learning_Deep_Features_CVPR_2016_paper.pdf)
+
+
+**2017**
 
 SmoothGrad: Removing Noise By Adding Noise
 Axiomatic Attribution for Deep Neural Networks
